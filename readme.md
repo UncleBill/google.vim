@@ -2,6 +2,9 @@
 
 A vim plugin for google searching, providing suggestion completion
 
+![google vim](https://f.cloud.github.com/assets/1141198/2182999/19bf761a-97a1-11e3-8e04-8819e8d2862d.jpg)
+
+
 ###Install
 
 - Require: [mattn/webapi-vim](https://github.com/mattn/webapi-vim)
